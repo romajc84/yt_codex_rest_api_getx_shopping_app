@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+- [YouTube: Integrate Rest API with GetX](https://www.youtube.com/watch?v=apPH1CCOtKQ)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
